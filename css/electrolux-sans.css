@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Electrolux Sans';
+    font-style: normal;
+    src: url(../fonts/Electrolux_Sans.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Thin';
+    font-style: normal;
+    src: url(../fonts/Electrolux_Sans_Thin.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Thin Oblique';
+    font-style: normal;
+    src: url(../fonts/Electrolux_Sans_Thin_Oblique.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Semibold';
+    font-style: normal;
+    src: url(../fonts/Electrolux_Sans_Semibold.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Semibold Oblique';
+    font-style: normal;
+    src: url(../fonts/Electrolux_Sans_Semibold_Oblique.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Oblique';
+    font-style: normal;
+    src: url(./Electrolux_Sans_Oblique.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Light';
+    font-style: normal;
+    src: url(./Electrolux_Sans_Light.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Light Oblique';
+    font-style: normal;
+    src: url(./Electrolux_Sans_Light_Oblique.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Bold';
+    font-style: normal;
+    src: url(../fonts/Electrolux_Sans_Bold.woff) format('woff');
+  }
+
+  @font-face {
+    font-family: 'Electrolux Sans Bold Oblique';
+    font-style: normal;
+    src: url(../fonts/Electrolux_Sans_Bold_Oblique.woff) format('woff');
+  }
+
+
+
